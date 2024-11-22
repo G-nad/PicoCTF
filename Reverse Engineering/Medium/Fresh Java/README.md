@@ -7,6 +7,7 @@ Tải file về, kiểm tra thì thấy đây là một file dữ liệu của j
 ![alt text](image-1.png)
 
 Tới đây Sử dụng một tool để decomplier file này lại thành một file chương trình java gốc, hoặc sử dụng  [java_decomplier](https://www.decompiler.com/), ta được file java gốc:
+   
 ```java
     import java.util.Scanner;
 
@@ -93,4 +94,3 @@ public class KeygenMe {
  ```
  
  flag: picoCTF{700l1ng_r3qu1r3d_738cac89}
- 
