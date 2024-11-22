@@ -2,12 +2,12 @@
 =
 ![alt text](image.png)
 
-Tải file về, kiểm tra thì thấy đây là một file dữ liệu của java đã được compile, cộng thêm với gợi ý từ đề bài **Use a decompiler for Java!**
+Tải file về, kiểm tra thì thấy đây là một file dữ liệu của một đoạn java đã được compile, cộng thêm với gợi ý từ đề bài **Use a decompiler for Java!**<br>
 
 ![alt text](image-1.png)
 
-Tới đây Sử dụng một tool để decomplier file này lại thành một file chương trình java gốc, hoặc sử dụng  [java_decomplier](https://www.decompiler.com/), ta được file java gốc:
-   
+Tới đây Sử dụng một tool để decomplier file này lại thành một file chương trình java gốc, hoặc sử dụng  [java_decomplier](https://www.decompiler.com/), ta được file java gốc:<br>
+
 ```java
     import java.util.Scanner;
 
