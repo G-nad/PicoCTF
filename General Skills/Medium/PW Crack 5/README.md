@@ -46,7 +46,7 @@ def level_5_pw_check():
 
 level_5_pw_check()
 ```
-Các mật khẩu để kiểm tra nằm trong file **dictionary.txt**, tuy nhiên số lượng mật khẩu cần để kiểm tra là rất nhiều, ta không thể lần kiểm tra bằng cách chạy chương trình và nhập từng mật khẩu.<br>
+Các mật khẩu để kiểm tra nằm trong file **dictionary.txt**, tuy nhiên số lượng mật khẩu cần để kiểm tra là rất nhiều, ta không thể lần lượt kiểm tra bằng cách chạy chương trình và nhập từng mật khẩu.<br>
 Trong đoạn code python, ta sẽ thêm một vòng lặp vô hạn ```while True``` ở trong ```level_5_pw_check()```
 ```python
 def level_5_pw_check():
