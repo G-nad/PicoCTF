@@ -5,7 +5,7 @@
 Tải file về, khi mở file thì ta được yêu cầu nhập "số yêu thích":<br>
 ![alt text](image-1.png)
 
-Mở file trong phần mềm IDA, bên hàm **main**, phần **Pseusdocode-A** ta được một đoạn code:
+Mở file trong phần mềm IDA, ở hàm **main**, phần **Pseusdocode-A** ta được một đoạn code:
 ```c++
 __int64 __fastcall main(int a1, char **a2, char **a3)
 {
